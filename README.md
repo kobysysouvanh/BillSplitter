@@ -1,1 +1,1 @@
-##Bill Splitter created with React.
+Bill Splitter created with React.
